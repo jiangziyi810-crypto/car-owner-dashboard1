@@ -1,4 +1,12 @@
 {
   "recommendationPeriod": "8.16—8.30",
-  "channelPeriod": "8.24—8.30"
+  "channelPeriod": "8.24—8.30",
+  "dataFiles": {
+    "ppl": "车主关系绑定数据.xlsx",
+    "rep": "推荐复购聚合表 (20).xlsx",
+    "qx": "任务圈选下发聚合表 (22).xlsx",
+    "detail": "复购渠道明细表 (29).xlsx",
+    "bubble": "推荐订单占比 (19).xlsx"
+  }
 }
+
