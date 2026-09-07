@@ -1,6 +1,6 @@
 {
-  "recommendationPeriod": "8.16—8.30",
-  "channelPeriod": "8.24—8.30",
+  "recommendationPeriod": "8.16—9.6",
+  "channelPeriod": "8.31—9.6",
   "dataFiles": {
     "ppl": "车主关系绑定数据.xlsx",
     "rep": "推荐复购聚合表 (20).xlsx",
